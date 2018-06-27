@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
-
+* [Giới thiệu](README.md)
+* [Agile Testing](agile-testing.md)
